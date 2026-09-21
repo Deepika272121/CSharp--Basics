@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="CSharp- Basics/CSharp- Basics.csproj" />
+  <Project Path="Comments/Comments.csproj" />
+  <Project Path="Strings/Strings.csproj" />
 </Solution>
