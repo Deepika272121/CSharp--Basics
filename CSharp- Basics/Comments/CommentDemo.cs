@@ -6,7 +6,6 @@ namespace CSharp__Basics.Comments
 {
     internal class CommentDemo
     {
-
         // This is a single-line comment
 
         /* This is a 
@@ -16,5 +15,7 @@ namespace CSharp__Basics.Comments
         /// XML documentation comment used to generate documentation
         /// </summary>
         public void DocumentedMethod() { }
+       
+
     }
 }
