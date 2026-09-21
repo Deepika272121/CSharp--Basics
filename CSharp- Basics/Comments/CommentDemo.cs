@@ -11,11 +11,6 @@ namespace CSharp__Basics.Comments
         /* This is a 
            multi-line comment */
 
-        /// <summary>
-        /// XML documentation comment used to generate documentation
-        /// </summary>
-        public void DocumentedMethod() { }
-       
 
     }
 }
